@@ -1,1 +1,2 @@
-# metaport_terraform
+## Important: 
+The MetaNetworks provider is currently not managed, maintained, supported or updated by Proofpoint, but by an external 3rd party; hence, any issues with the provider installation or its resources, must be filed via a GitHub Issue with the maintainer itself.
